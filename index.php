@@ -29,3 +29,4 @@ ini_set('session.gc_maxlifetime', 360000000);
 define ( 'SITE_PATH', dirname ( __FILE__ ) );
 
 // 亲^_^ 后面不需要任何代码了 就是如此简单
+//测试文件
